@@ -1,1 +1,2 @@
-kube-state-metrics:v2.0.0
+golang:latest
+golang:1.22
