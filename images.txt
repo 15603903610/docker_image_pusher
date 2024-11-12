@@ -3,3 +3,4 @@ golang:1.22
 alpine:latest
 debian:stable-slim
 node:14-alpine
+nginx:alpine
