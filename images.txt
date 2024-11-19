@@ -4,3 +4,6 @@ alpine:latest
 debian:stable-slim
 node:14-alpine
 nginx:alpine
+redis:latest
+jaegertracing/all-in-one:latest
+consul:latest
