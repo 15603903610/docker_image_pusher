@@ -1,1 +1,2 @@
-jenkins/jenkins:lts
+php:7.0
+php:7.0-apline
